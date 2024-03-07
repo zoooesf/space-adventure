@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 482.84 464.35">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #b2d235;
+      }
+
+      .cls-1, .cls-15, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        stroke: #000;
+      }
+
+      .cls-1, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1 {
+        stroke-width: 0.75px;
+      }
+
+      .cls-2 {
+        stroke-width: 0.97px;
+      }
+
+      .cls-3, .cls-5, .cls-6 {
+        fill: #f15a22;
+      }
+
+      .cls-3 {
+        stroke-width: 3.24px;
+      }
+
+      .cls-4 {
+        fill: #fff;
+        stroke-width: 3.59px;
+      }
+
+      .cls-5, .cls-9 {
+        stroke-width: 1.09px;
+      }
+
+      .cls-6 {
+        stroke-width: 0.84px;
+      }
+
+      .cls-7 {
+        fill: #999;
+      }
+
+      .cls-15, .cls-7 {
+        stroke-width: 2.84px;
+      }
+
+      .cls-8 {
+        fill: none;
+        stroke: #4d4d4d;
+        stroke-linecap: round;
+        stroke-width: 4.36px;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-14, .cls-9 {
+        fill: #fff200;
+        stroke: #f7931e;
+      }
+
+      .cls-10 {
+        stroke-width: 0.95px;
+      }
+
+      .cls-11 {
+        stroke-width: 0.84px;
+      }
+
+      .cls-12 {
+        stroke-width: 0.65px;
+      }
+
+      .cls-13 {
+        stroke-width: 0.58px;
+      }
+
+      .cls-14 {
+        stroke-width: 0.76px;
+      }
+
+      .cls-15 {
+        fill: #1b1464;
+      }
+    </style>
+  </defs>
+  <title>preloader</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <g>
+          <rect class="cls-1" x="115.01" y="33.46" width="10.32" height="85.6" transform="translate(-16.06 117.46) rotate(-49.23)"/>
+          <rect class="cls-2" x="359.13" y="8.07" width="10.32" height="144" transform="translate(525.75 416.31) rotate(-128.05)"/>
+          <path class="cls-3" d="M96.32,216.46c-145.85,194.46,434.3,191.22,278.73,0C375.05,18.76,99.56,18.76,96.32,216.46Z"/>
+          <g>
+            <g>
+              <circle class="cls-4" cx="305.71" cy="181.65" r="41.29"/>
+              <circle cx="300.32" cy="187.03" r="19.75"/>
+            </g>
+            <g>
+              <circle class="cls-4" cx="169.26" cy="181.65" r="41.29"/>
+              <circle cx="172.85" cy="185.24" r="23.34"/>
+            </g>
+          </g>
+          <circle class="cls-5" cx="433.42" cy="28.91" r="28.36"/>
+          <circle class="cls-6" cx="88.71" cy="46.37" r="21.82"/>
+        </g>
+        <path class="cls-7" d="M1.42,325.64v.95c0,12.24,1.13,25.25,8,35.37,96.17,141.14,403.1,130.51,466.38-8.08,3.17-6.95,5.6-14.21,5.6-21.85v-6.39c-28-13.47-56.53-45.72-82.72-34.09C285.24,341.93,178,335.79,74.47,289.49,50.15,278.62,25.27,311.13,1.42,325.64Z"/>
+        <g id="LIGHTS">
+          <path class="cls-8" d="M3.6,327.82c160.8,50.78,316.42,56.59,475.64,0"/>
+          <path class="cls-8" d="M4.91,345.27c163,67,318,71.91,474.33-4.36"/>
+          <circle class="cls-9" cx="97.42" cy="365.35" r="6.55"/>
+          <circle class="cls-9" cx="121.42" cy="371.45" r="6.55"/>
+          <circle class="cls-9" cx="143.24" cy="375.82" r="6.55"/>
+          <circle class="cls-9" cx="165.05" cy="378.87" r="6.55"/>
+          <circle class="cls-9" cx="186.87" cy="381.93" r="6.55"/>
+          <circle class="cls-9" cx="208.69" cy="384.55" r="6.55"/>
+          <circle class="cls-9" cx="230.51" cy="384.55" r="6.55"/>
+          <circle class="cls-9" cx="252.33" cy="384.55" r="6.55"/>
+          <circle class="cls-9" cx="278.51" cy="384.55" r="6.55"/>
+          <circle class="cls-9" cx="304.69" cy="381.49" r="6.55"/>
+          <circle class="cls-9" cx="330.87" cy="378" r="6.55"/>
+          <circle class="cls-9" cx="357.05" cy="372.76" r="6.55"/>
+          <circle class="cls-9" cx="383.24" cy="366.22" r="6.55"/>
+          <circle class="cls-10" cx="404.18" cy="361.85" r="5.67"/>
+          <circle class="cls-11" cx="424.04" cy="355.09" r="5.02"/>
+          <circle class="cls-11" cx="441.49" cy="348.98" r="5.02"/>
+          <circle class="cls-12" cx="454.8" cy="344.4" r="3.93"/>
+          <circle class="cls-13" cx="467.45" cy="339.6" r="3.49"/>
+          <circle class="cls-11" cx="26.95" cy="344.62" r="5.02"/>
+          <circle class="cls-14" cx="9.05" cy="338.51" r="4.58"/>
+          <circle class="cls-9" cx="73.42" cy="358.36" r="6.55"/>
+          <circle class="cls-9" cx="47.24" cy="351.82" r="6.55"/>
+        </g>
+        <path class="cls-15" d="M208.69,249.27c13.09,48,61.09,34.91,65.46,0Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

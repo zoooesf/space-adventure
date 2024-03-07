@@ -1,0 +1,50 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="style.css">
+  <script language="javascript" type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/p5.min.js"></script>
+  <script language="javascript" type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/addons/p5.dom.min.js"></script>
+  <script language="javascript" type="text/javascript" src="sketch.js"></script>
+  <script language="javascript" type="text/javascript" src="bird.js"></script>
+  <script language="javascript" type="text/javascript" src="pipe.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans|VT323&display=swap" rel="stylesheet">
+</head>
+<body>
+<div class="loaderB">
+  <div class="loader"></div>
+</div>
+
+<section id="instructions">
+  <button id="close">close</button>
+  <h2>Task: Help Arnie the alien make his way through space</h2>
+  <p>Use the space bar to navigate Arnie through the openings in the pipes as they come but be careful not to hit a pipe or it's game over. <br> Don't worry though, you can always start over!</p>
+</section>
+
+  <h1>Space Adventure</h1>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.2.6/gsap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script>
+    setTimeout(function(){
+      $('.loaderB').fadeToggle();
+    }, 2500);
+
+    TweenMax.fromTo('#instructions',{
+      display: 'none',
+    },{
+      delay: 2.5,
+      display: 'block'
+    })
+    document.querySelector("#close").addEventListener("click", function(){ 
+    TweenMax.to('#instructions',{
+      display: 'none'
+    })
+  });
+  window.onkeydown = function(e) {
+    if(e.keyCode == 32 && e.target == document.body) {
+        e.preventDefault();
+        return false;
+    }
+};
+  </script>
+</body>
+</html>
